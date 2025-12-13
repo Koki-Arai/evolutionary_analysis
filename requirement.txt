@@ -1,0 +1,13 @@
+# Core numerical stack
+numpy>=1.23
+pandas>=1.5
+
+# Econometrics / panel data
+linearmodels>=5.4
+statsmodels>=0.14
+
+# Parquet I/O
+pyarrow>=12.0
+
+# Optional but recommended (stability & speed)
+scipy>=1.9
